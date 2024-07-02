@@ -1,0 +1,1 @@
+print('Youpi un nouveau fichier.')
