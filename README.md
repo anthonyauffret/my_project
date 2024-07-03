@@ -13,6 +13,6 @@ _Ceci est ma première phrase._
 
 **Ceci est ma deuxième phrase.**
 
-```
+```python
 print('Coucou')
 ```
