@@ -12,3 +12,7 @@ Je fais une modification pour vous montrer quelque chose.
 _Ceci est ma première phrase._
 
 **Ceci est ma deuxième phrase.**
+
+```
+print('Coucou')
+```
