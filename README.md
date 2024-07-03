@@ -9,6 +9,6 @@ Je fais une modification pour vous montrer quelque chose.
 ### This is a sub-subtitle
 #### This is a sub-sub-subtitle
 
-Ceci est ma première phrase.
+__Ceci est ma première phrase.__
 
-Ceci est ma deuxième phrase.
+**Ceci est ma deuxième phrase.**
